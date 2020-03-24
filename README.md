@@ -1,6 +1,6 @@
 # Sudoku
 
-![alt text](https://github.com/JcSoares29/Sudoku/edit/master/ImagemTela.PNG)
+![picture](https://github.com/JcSoares29/Sudoku/edit/master/ImagemTela.PNG)
 
 Um jogo de Sudoku feito com python e a biblioteca pygame. 
 Para jogar, basta selecionar um quadrado vazio e com os botões de 1 ao 9 do lado esquerdo você seleciona o valor.
