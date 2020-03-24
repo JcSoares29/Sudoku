@@ -1,6 +1,5 @@
 # Sudoku
 
-![picture](https://github.com/JcSoares29/Sudoku/edit/master/ImagemTela.PNG)
 ![picture](ImagemTela.PNG)
 
 Um jogo de Sudoku feito com python e a biblioteca pygame. 
